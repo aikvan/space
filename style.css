@@ -2,6 +2,8 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: #221f1f;
     text-align: center;
+    line-height: 1.4;
+    background-color: antiquewhite;
 }
 
 .main-page-name {
