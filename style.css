@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
     color: #221f1f;
     text-align: center;
     line-height: 1.4;
@@ -7,5 +8,5 @@ body{
 }
 
 .main-page-name {
-    font-family: 'Metal Mania', Tahoma, cursive;
+    font-family: 'Metal Mania', Tahoma, sans-serif;
 }
